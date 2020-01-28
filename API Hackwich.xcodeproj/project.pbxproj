@@ -15,6 +15,7 @@
 		58BC3B4223E09C0800ED5BAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58BC3B4023E09C0800ED5BAC /* LaunchScreen.storyboard */; };
 		58BC3B4D23E09C0900ED5BAC /* API_HackwichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B4C23E09C0900ED5BAC /* API_HackwichTests.swift */; };
 		58BC3B5823E09C0900ED5BAC /* API_HackwichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B5723E09C0900ED5BAC /* API_HackwichUITests.swift */; };
+		58BC3B6623E09FD300ED5BAC /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B6523E09FD300ED5BAC /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		58BC3B5323E09C0900ED5BAC /* API HackwichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "API HackwichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58BC3B5723E09C0900ED5BAC /* API_HackwichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_HackwichUITests.swift; sourceTree = "<group>"; };
 		58BC3B5923E09C0900ED5BAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58BC3B6523E09FD300ED5BAC /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				58BC3B3E23E09C0800ED5BAC /* Assets.xcassets */,
 				58BC3B4023E09C0800ED5BAC /* LaunchScreen.storyboard */,
 				58BC3B4323E09C0800ED5BAC /* Info.plist */,
+				58BC3B6523E09FD300ED5BAC /* SwiftyJSON.swift */,
 			);
 			path = "API Hackwich";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				58BC3B3A23E09C0300ED5BAC /* SourcesViewController.swift in Sources */,
 				58BC3B3623E09C0300ED5BAC /* AppDelegate.swift in Sources */,
 				58BC3B3823E09C0300ED5BAC /* SceneDelegate.swift in Sources */,
+				58BC3B6623E09FD300ED5BAC /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
