@@ -16,6 +16,7 @@
 		58BC3B4D23E09C0900ED5BAC /* API_HackwichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B4C23E09C0900ED5BAC /* API_HackwichTests.swift */; };
 		58BC3B5823E09C0900ED5BAC /* API_HackwichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B5723E09C0900ED5BAC /* API_HackwichUITests.swift */; };
 		58BC3B6623E09FD300ED5BAC /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B6523E09FD300ED5BAC /* SwiftyJSON.swift */; };
+		58BC3B6823E48E9A00ED5BAC /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC3B6723E48E9A00ED5BAC /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		58BC3B5723E09C0900ED5BAC /* API_HackwichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_HackwichUITests.swift; sourceTree = "<group>"; };
 		58BC3B5923E09C0900ED5BAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58BC3B6523E09FD300ED5BAC /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		58BC3B6723E48E9A00ED5BAC /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				58BC3B3523E09C0300ED5BAC /* AppDelegate.swift */,
 				58BC3B3723E09C0300ED5BAC /* SceneDelegate.swift */,
 				58BC3B3923E09C0300ED5BAC /* SourcesViewController.swift */,
+				58BC3B6723E48E9A00ED5BAC /* ArticlesViewController.swift */,
 				58BC3B3B23E09C0300ED5BAC /* Main.storyboard */,
 				58BC3B3E23E09C0800ED5BAC /* Assets.xcassets */,
 				58BC3B4023E09C0800ED5BAC /* LaunchScreen.storyboard */,
@@ -266,6 +269,7 @@
 				58BC3B3623E09C0300ED5BAC /* AppDelegate.swift in Sources */,
 				58BC3B3823E09C0300ED5BAC /* SceneDelegate.swift in Sources */,
 				58BC3B6623E09FD300ED5BAC /* SwiftyJSON.swift in Sources */,
+				58BC3B6823E48E9A00ED5BAC /* ArticlesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
